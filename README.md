@@ -398,7 +398,7 @@ Make reasonable assumptions where information is missing and include stakeholder
 
 ## POST Request
 
-> *![images/img_4.png](images/img_4.png)*
+> *![Images/img_4.png](Images/img_4.png)*
 > 
 > *![images/img.png](images/img.png)*
 
