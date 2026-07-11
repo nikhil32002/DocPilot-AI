@@ -398,18 +398,18 @@ Make reasonable assumptions where information is missing and include stakeholder
 
 ## POST Request
 
-> *![Images/img_4.png](Images/img_4.png)*
-> 
-> *![images/img.png](images/img.png)*
+![Image1](Images/img_4.png)
 
-> *![images/img_1.png](images/img_1.png)*
+![Image2](Images/img.png)
+
+![Image3](Images/img_1.png)
 ---
 
 ## Generated DOCX
 
-> *![images/img_2.png](images/img_2.png)*
+![Image4](Images/img_2.png)
 
-> *![images/img_3.png](images/img_3.png)*
+![Image5](Images/img_3.png)
 ---
 
 # 🎯 Conclusion
